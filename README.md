@@ -118,7 +118,3 @@ python document_search.py
 - **Improved Fine-Tuning**: Implement fine-tuning on custom datasets to improve response quality.
 - **Multi-Document Search**: Enable searching across multiple documents simultaneously.
 - **User Interface**: Develop a web-based or desktop interface for easier interaction.
-
----
-
----
